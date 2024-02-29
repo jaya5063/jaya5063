@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaya5063
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning React Framework
+- 🌱 I’m currently learning React Framework as just completed JS
 - 💞️ I’m looking to collaborate on any Project Building
 - 📫 How to reach me Twitter
 - 😄 Pronouns: ...
