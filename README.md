@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaya5063
+- 👋 Hi, I’m @jayaKrishna
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning React Framework as just completed JS
 - 💞️ I’m looking to collaborate on any Project Building
