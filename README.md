@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any Project Building
 - 📫 How to reach me Twitter
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...I'm still learning the techologies
 
 <!---
 jaya5063/jaya5063 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
